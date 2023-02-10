@@ -5,26 +5,13 @@ I will go step by step in building CNN website. You'll learn how to layout easil
 Begginers tutorials for HTML and CSS.Improve your CSS skills with this latest tutorial.
 We have added Starter code link below.
 
-How to make website like CNN using HTML & CSS : https://youtu.be/zcT-JDTJ5Rs
 
-Buy me a Coffee :   https://www.buymeacoffee.com/irvinemesaz
 
 Invite/Hire me to your project in mind  : https://www.upwork.com/workwith/irvinemesa
 
 You can download the Starter Code and learn by yourself.
 
 Starter code link :https://github.com/DrMESAZIM/CNN-starter-code.git
-
-Contents of this video  
-
-
-0:00 - Intro
-0:30 - HEADER HTML CODE 
-6:00 -TOP-HEADLINES SECTION HTML CODE
-23:17 -CATERGORIES SECTION HTML CODE
-40:00 - TAKE SECTION HTML CODE
-1:06:00 - FOOTER HTML CODE
-1:26:40 - CSS MEDIA QUERIES CODE
 
 
 Playlists links
